@@ -1,1 +1,3 @@
 Hello git
+do create file ,merge pull push
+Learning is fun
