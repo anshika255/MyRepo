@@ -1,7 +1,7 @@
 package com.lti;
 
 public class TestArithmatic {
-public String Sample() {
-	return "sample";
-}
+  public int sub(int a,int b) {
+	  return a-b;
+  }
 }
